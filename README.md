@@ -1,6 +1,5 @@
 [TOC]
-
-#Bienvenido al Blogpost
+# Bienvenido al Blogpost
 
 Es solamente un proyecto para aprender a manejar Git, acá hemos aprendido desde lo más básico y poco a poco hemos aumentado el nivel para ser todos unos profesionales usando Git y GitHub. 
 #Descripción del curso
@@ -8,7 +7,7 @@ Es solamente un proyecto para aprender a manejar Git, acá hemos aprendido desde
 La descripción del curso, en la pagina oficial de [**Platzi**](http://www.platzi.com/git "Platzi")
 >Deja de versionar tus proyectos usando tu propio sistema de control de versiones. Mejor usa Git, el sistema de control de versiones por excelencia que utiliza la industria tecnológica. Aprende a trabajar con git, conceptos básicos, clonar un repositorio y gestionar tus proyectos alojándolos en tu repositorio local y en GitHub.
 
-#¿Qué aprendemos en este curso?
+# ¿Qué aprendemos en este curso?
 
 - Llevar un Control de Versiones en tus Proyectos con Git
 - Trabajar en Equipos de Forma Colaborativa
@@ -17,7 +16,7 @@ La descripción del curso, en la pagina oficial de [**Platzi**](http://www.platz
 - Aplicar un flujo de trabajo profesional en tus proyectos
 - Trabajar con múltiples entornos de trabajo
 
-##Este curso forma parte de:
+## Este curso forma parte de:
 
 - Desarrollo Backend con Go
 - Firebase
@@ -43,7 +42,7 @@ La descripción del curso, en la pagina oficial de [**Platzi**](http://www.platz
 - Escuela de Videojuegos
 - Desarrollo de Aplicaciones Android
 
-#Profesor
+# Profesor
 
 Freddy Vega [@freddier](https://twitter.com/freddier "@freddier")
 CEO en Platzi
