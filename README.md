@@ -1,4 +1,3 @@
-[TOC]
 # Bienvenido al Blogpost
 
 Es solamente un proyecto para aprender a manejar Git, acá hemos aprendido desde lo más básico y poco a poco hemos aumentado el nivel para ser todos unos profesionales usando Git y GitHub. 
